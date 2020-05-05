@@ -5,29 +5,29 @@ This is a voice controlled car that is made with Arduino. It is a multifunctiona
 
 ## Instruments
 A. Hardware:
-·	Arduino Mega 2560
-·	Bluetooth Device
-·	Motor Driver
-·	Motor
-·	Chassis 
-·	Wheel
-·	Wires
-·	Li-po Battery
-·	Sensors
-·	Android Smartphone
+1. Arduino Mega 2560
+2. Bluetooth Device
+3. Motor Driver
+4. Motor
+5. Chassis 
+6. Wheel
+7. Wires
+8. Li-po Battery
+9. Sensors
+10. Android Smartphone
 
 B. Software:
-·	Proetus (ISIS 7 Professional)
-·	Arduino 
-·	MIT App Inventor
+1. Proetus (ISIS 7 Professional)
+2. Arduino 
+3. MIT App Inventor
 
 ## Features
-·	The car can move forward, backward, right, left.
-·	It can fully control by an android smart phone.
-·	It has rotating feature. It can rotate back or front and left or right.
-·	It can take video of its surrounding while moving. 
-·	The car can also be used as an obstacle detector.
-·	It has two-way functions. User can either control it by the manual button of the app or they can control it by their voice. 
+1. The car can move forward, backward, right, left.
+2.	It can fully control by an android smart phone.
+3.	It has rotating feature. It can rotate back or front and left or right.
+4.	It can take video of its surrounding while moving. 
+5.	The car can also be used as an obstacle detector.
+6.	It has two-way functions. User can either control it by the manual button of the app or they can control it by their voice. 
 
 ## Working Principal
 At first, we have set the wheels to the chassis. Then we fit the Adriano with it. Arduino is powered by a Li-Po battery. Then we set the motors. Motors are also connected with the power source. All the motors are connected to the Arduino with some connecting wires. Then we set a sensor in front of the car to detect object. We also set a Bluetooth module to receive signal from the smartphone. 
