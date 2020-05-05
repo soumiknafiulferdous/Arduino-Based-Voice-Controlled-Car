@@ -35,5 +35,5 @@ Then we write the code for Arduino. We design the whole connection in the proteu
 Then we started our work of Android app making in MIT App Inventor. Firstly, we design the model of the app. Then we write the code of the app. 
 
 ## Conclusion
-Many features are implemented in this project including the Android app. In future, this project will be developed by adding more interesting features in it.The app will also be released in google play store. 
+Many features are implemented in this project including the Android app. In future, this project will be developed by adding more interesting features in it. The app will also be released in google play store. 
 
