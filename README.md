@@ -19,7 +19,6 @@ A. Hardware:
 B. Software:
 1. Proetus (ISIS 7 Professional)
 2. Arduino 
-3. MIT App Inventor
 
 ## Features
 1. The car can move forward, backward, right, left.
@@ -31,8 +30,10 @@ B. Software:
 
 ## Working Principal
 At first, we have set the wheels to the chassis. Then we fit the Adriano with it. Arduino is powered by a Li-Po battery. Then we set the motors. Motors are also connected with the power source. All the motors are connected to the Arduino with some connecting wires. Then we set a sensor in front of the car to detect object. We also set a Bluetooth module to receive signal from the smartphone. 
+
 Then we write the code for Arduino. We design the whole connection in the proteus.
-Then we started our work of Android app making in MIT App Inventor. Firstly, we design the model of the app. Then we write the code of the app. 
+
+Then we started our work of Android app development. Firstly, we design the model of the app. Then we write the code of the app. 
 
 ## Conclusion
 Many features are implemented in this project including the Android app. In future, this project will be developed by adding more interesting features in it. The app will also be released in google play store. 
