@@ -29,11 +29,11 @@ B. Software:
 6.	It has two-way functions. User can either control it by the manual button of the app or they can control it by their voice. 
 
 ## Working Principal
-At first, we have set the wheels to the chassis. Then we fit the Adriano with it. Arduino is powered by a Li-Po battery. Then we set the motors. Motors are also connected with the power source. All the motors are connected to the Arduino with some connecting wires. Then we set a sensor in front of the car to detect object. We also set a Bluetooth module to receive signal from the smartphone. 
+At first, the wheels are set to the chassis. Then Adriano is fit with it. The Arduino is powered by a Li-Po battery. Then motors are started. Motors are also connected with the power source. All the motors are connected to the Arduino with some connecting wires. Then a sensor is set in front of the car to detect object. Bluetooth module is also attatched to receive signal from the smartphone. 
 
-Then we write the code for Arduino. We design the whole connection in the proteus.
+Then the code for Arduino is written. The whole connection is designed in the proteus.
 
-Then we started our work of Android app development. Firstly, we design the model of the app. Then we write the code of the app. 
+Then the work of Android app development was started. At first, the model of the app was designed. Then the code of the app was written. 
 
 ## Conclusion
 Many features are implemented in this project including the Android app. In future, this project will be developed by adding more interesting features in it. The app will also be released in google play store. 
