@@ -1,9 +1,7 @@
 # Arduino Based Voice Controlled Car
 
 ## Overview
-This is a voice controlled car that is made with Arduino. It is a multifunctional car. It can be controlled easily by any android smartphone with an app. It can run like a normal car. It can take video of its surroundings when it is moving. It can detect obstacles that is close to it to avoid collision. User can control the car within a fixed range. User can control it by their own voice commands. The car will follow the voice command and work accordingly. 
-
-Many features are implemented in this project including the Android app. In future, the app will also be released in google play store. 
+This is a voice controlled car that is made with Arduino. It is a multifunctional car. It can be controlled easily by any android smartphone with an app. It can run like a normal car. It can take video of its surroundings when it is moving. It can detect obstacles that is close to it to avoid collision. User can control the car within a fixed range. User can control it by their own voice commands. The car will follow the voice command and work accordingly. Many features are implemented in this project including the Android app.
 
 ## Instruments
 A. Hardware:
