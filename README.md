@@ -21,7 +21,7 @@ B. Software:
 2. Arduino 
 
 ## Working Principal
-At first, the wheels are set to the chassis. Then Adriano is fit with it. The Arduino is powered by a Li-Po battery. Then motors are started. Motors are also connected with the power source. All the motors are connected to the Arduino with some connecting wires. Then a sensor is set in front of the car to detect object. Bluetooth module is also attatched to receive signal from the smartphone. 
+At first, the wheels are set to the chassis. Then Arduino is fit with it. The Arduino is powered by a Li-Po battery. Then motors are started. Motors are also connected with the power source. All the motors are connected to the Arduino with some connecting wires. Then a sensor is set in front of the car to detect object. Bluetooth module is also attatched to receive signal from the smartphone. 
 
 Then the code for Arduino is written. The whole connection is designed in the proteus.
 
