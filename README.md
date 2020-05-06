@@ -25,7 +25,7 @@ At first, the wheels are set to the chassis. Then Arduino is fit with it. The Ar
 
 Then the code for Arduino is written. The whole connection is designed in the proteus.
 
-Then the work of Android app development was started. At first, the model of the app was designed. Then the code of the app was written.
+After that, the work of Android app development was started. At first, the model of the app was designed. Then the code of the app was written.
 
 ## Features
 1. The car can move forward, backward, right and left.
