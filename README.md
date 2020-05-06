@@ -33,4 +33,5 @@ After that, the work of Android app development was started. At first, the model
 3. It has rotating feature. It can rotate back or front and left or right.
 4. It can take video of its surrounding while moving. 
 5. The car can also be used as an obstacle detector.
-6. It has two-way functions. Users can either control it by the manual button of the app or they can control it with their voice. 
+6. It has two-way functions: button and voice.
+7. Users can either control it by manual buttons of the app or by their own voice. 
