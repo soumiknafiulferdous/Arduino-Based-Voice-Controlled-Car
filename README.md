@@ -42,32 +42,30 @@ After that, the work of Android app development was started. At first, the model
 
 ## Screenshots
 
+1. Top View:
 ![01  Top View](https://user-images.githubusercontent.com/30154496/82124404-b0908e00-97c0-11ea-8304-a40e1da66d49.jpg)
 
-1. Front View:
+2. Front View:
 ![02  Front View](https://user-images.githubusercontent.com/30154496/82124405-b1c1bb00-97c0-11ea-8167-2c1389095cd6.jpg)
 
-
+3. Back View:
 ![03  Back View](https://user-images.githubusercontent.com/30154496/82124407-b25a5180-97c0-11ea-8cbf-ed4bfac36922.jpg)
 
-
+4. Right Side View:
 ![04  Right Side View](https://user-images.githubusercontent.com/30154496/82124410-b38b7e80-97c0-11ea-8547-e4edff1198c4.jpg)
 
-
+5. Left Side View:
 ![05  Left Side View](https://user-images.githubusercontent.com/30154496/82124411-b4bcab80-97c0-11ea-9ff7-576279c7b724.jpg)
 
-
+6. Full View (Back):
 ![06  Full View (Back)-002](https://user-images.githubusercontent.com/30154496/82124412-b5edd880-97c0-11ea-94e2-2117cfb016da.jpg)
 
-
+7. Full View (Front):
 ![07  Full View (Front)](https://user-images.githubusercontent.com/30154496/82124413-b71f0580-97c0-11ea-9f17-10c72c541b09.jpg)
 
 
-![App1-002](https://user-images.githubusercontent.com/30154496/82124414-b8503280-97c0-11ea-812b-e2e73b537caa.jpg)
 
 
-![App2-001](https://user-images.githubusercontent.com/30154496/82124415-b8e8c900-97c0-11ea-83f6-ed84d81ae4ec.jpg)
 
 
-![Arduino Based Voice Controlled Car](https://user-images.githubusercontent.com/30154496/82124418-ba19f600-97c0-11ea-9013-083e639b821c.jpg)
 
