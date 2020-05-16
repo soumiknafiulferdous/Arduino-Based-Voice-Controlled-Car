@@ -42,10 +42,10 @@ After that, the work of Android app development was started. At first, the model
 
 ## Screenshots
 
-1. Top View:
+Top View:
 ![01  Top View](https://user-images.githubusercontent.com/30154496/82124404-b0908e00-97c0-11ea-8304-a40e1da66d49.jpg)
 
-2. Front View:
+Front View:
 ![02  Front View](https://user-images.githubusercontent.com/30154496/82124405-b1c1bb00-97c0-11ea-8167-2c1389095cd6.jpg)
 
 3. Back View:
