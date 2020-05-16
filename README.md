@@ -48,19 +48,19 @@ Top View:
 Front View:
 ![02  Front View](https://user-images.githubusercontent.com/30154496/82124405-b1c1bb00-97c0-11ea-8167-2c1389095cd6.jpg)
 
-3. Back View:
+Back View:
 ![03  Back View](https://user-images.githubusercontent.com/30154496/82124407-b25a5180-97c0-11ea-8cbf-ed4bfac36922.jpg)
 
-4. Right Side View:
+Right Side View:
 ![04  Right Side View](https://user-images.githubusercontent.com/30154496/82124410-b38b7e80-97c0-11ea-8547-e4edff1198c4.jpg)
 
-5. Left Side View:
+Left Side View:
 ![05  Left Side View](https://user-images.githubusercontent.com/30154496/82124411-b4bcab80-97c0-11ea-9ff7-576279c7b724.jpg)
 
-6. Full View (Back):
+Full View (Back):
 ![06  Full View (Back)-002](https://user-images.githubusercontent.com/30154496/82124412-b5edd880-97c0-11ea-94e2-2117cfb016da.jpg)
 
-7. Full View (Front):
+Full View (Front):
 ![07  Full View (Front)](https://user-images.githubusercontent.com/30154496/82124413-b71f0580-97c0-11ea-9f17-10c72c541b09.jpg)
 
 
