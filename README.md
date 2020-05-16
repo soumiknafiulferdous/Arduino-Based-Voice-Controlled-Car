@@ -36,14 +36,15 @@ After that, the work of Android app development was started. At first, the model
 6. It has two-way functions: Button and Voice.
 7. Users can control it by manual buttons of the app or by their own voice. 
 
-## Screenshots
+## Circuit Diagram
 
 ![0  Circuit Diagram](https://user-images.githubusercontent.com/30154496/82124401-aec6ca80-97c0-11ea-9204-c5c81d245916.jpg)
 
+## Screenshots
 
 ![01  Top View](https://user-images.githubusercontent.com/30154496/82124404-b0908e00-97c0-11ea-8304-a40e1da66d49.jpg)
 
-
+1. Front View:
 ![02  Front View](https://user-images.githubusercontent.com/30154496/82124405-b1c1bb00-97c0-11ea-8167-2c1389095cd6.jpg)
 
 
