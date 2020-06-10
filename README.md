@@ -71,7 +71,7 @@ App UI:
 
 ![App2-001](https://user-images.githubusercontent.com/30154496/82124627-1cbfc180-97c2-11ea-9a40-d4adb0176656.jpg)
 
-### Demo Video of Website: https://youtu.be/6bVoVF0-Oxc
+### Demo Video: https://youtu.be/6bVoVF0-Oxc
 
 
 
